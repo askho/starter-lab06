@@ -19,7 +19,7 @@ Order #3 will have 2 cheeseburgers for Leon, and takeout
         <topping type="raw"/>
         <topping type="salsa"/>
         <topping type="tomato"/>
-        <topping type="penutButter"/>
+        <topping type="peanutButter"/>
         <sauce type="fksauce"/>
     </burger>
 </order>
